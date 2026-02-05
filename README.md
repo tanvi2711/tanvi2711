@@ -1,8 +1,7 @@
-<h2 align="center">Hi 👋, I'm Tanvi Jivatode</h2>
+<h2>Hi 👋, I'm Tanvi Jivatode</h2>
 
-<p align="center">
+<p >
   💻 Web Developer | Python • Flask • Django <br>
-  📍 Amravati, Maharashtra, India
 </p>
 
 ---
