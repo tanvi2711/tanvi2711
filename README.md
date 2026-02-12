@@ -33,7 +33,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tanvi2711&theme=dark" />
   <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=tanvi2711&show_icons=true&theme=dark" />
 </p>
 
 ---
