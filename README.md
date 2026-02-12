@@ -28,6 +28,14 @@
 
 ---
 
+## 🔥 My GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tanvi2711&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvi2711&show_icons=true&theme=dark)
+
+---
+
 ### 📫 Connect
 <p>
   <a href="https://github.com/tanvi2711">
