@@ -46,3 +46,5 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
   </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
