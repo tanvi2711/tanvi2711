@@ -26,7 +26,7 @@
 - 🏬 **iStoreX (Django)**  
 - 🤖 **SENSAI – Career Intelligence Web App**
 
-
+---
 
 <h2 align="center">🔥 My GitHub Stats</h2>
 
