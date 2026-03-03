@@ -47,4 +47,3 @@
   </a>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=tanvi2711)
