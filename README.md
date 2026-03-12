@@ -28,11 +28,13 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvi2711&show_icons=true&theme=tokyonight)
+<h2 align="center">🔥 My GitHub Stats</h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvi2711&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tanvi2711&theme=dark" />
+  <br/>
+</p>
 
 ---
 
